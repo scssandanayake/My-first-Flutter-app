@@ -1,2 +1,3 @@
 # My-first-Flutter-app
-develop my first flutter app . For practice .
+First flutter application project . <BR>
+google codelabs practice.
